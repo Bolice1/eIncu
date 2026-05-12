@@ -7,6 +7,8 @@ eIncu is an AI- and IoT-driven chicken incubator designed to optimize hatching c
 - Maintain optimal incubation conditions
 - Reduce manual intervention
 - Improve hatch rate using data-driven insights
+- Fully remote control capabilities 
+- Automation 
 
 ## Features
 - Real-time temperature and humidity monitoring
@@ -21,12 +23,14 @@ eIncu is an AI- and IoT-driven chicken incubator designed to optimize hatching c
 - Actuators (heater, fan, relay)
 - Backend server (Node.js / Python)
 - Dashboard (web app)
+- Farmer (mobile app)
 
 ## Research Component
 This project explores:
 - IoT-based environmental control systems
 - Predictive modeling for incubation optimization
 - Fault detection in embedded systems
+- Mobile app development
 
 ## Current Status
 - AI model for prediction 
