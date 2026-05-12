@@ -1,0 +1,2 @@
+# eIncu server 
+This is the server/backend side of the ***eIncu*** solution built with python FastAPIs and multi-tier db for several use cases(sqlite3 for mobile app,postgresql for user data managment and continuity of the app)
